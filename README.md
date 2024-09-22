@@ -12,7 +12,7 @@ Executando o Código
 
     bash
 
-git clone https://github.com/seu_usuario/seu_repositorio.git
+git clone https://github.com/KennerChristian/TrabalhoIA/tree/master
 cd seu_repositorio
 
 Execute o algoritmo:
