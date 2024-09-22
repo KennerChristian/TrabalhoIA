@@ -6,7 +6,7 @@ Problema da Mochila
 O objetivo aqui é escolher um conjunto de itens que maximize o valor total sem ultrapassar um limite de peso. Cada item possui um peso e um valor.
 Executando o Código
 
-    Certifique-se de ter Python 3.x instalado.
+    Certifique-se de ter Python 3.12.2 instalado.
 
     Clone o repositório:
 
